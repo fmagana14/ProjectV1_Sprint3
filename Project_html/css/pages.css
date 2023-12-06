@@ -5,13 +5,6 @@ body{
     color: white;
 }
 .bgimg{
-    background-image: url(/images/Frame\ 8\ \(1\).png);
-    
-    background-repeat: no-repeat;
-    background-size: cover;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+    background-image: url(/images/Frame\ 8\ \(1\).png)
 
 }
