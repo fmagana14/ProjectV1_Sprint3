@@ -1,8 +1,11 @@
 body{
     background-color: black;
 }
-.navbar-brand{
+.navbar{
     color: white;
+}
+.navbar-brand{
+    color: white    ;
 }
 .bgimg{
     background-image: url(../images/Frame\ 8\ \(1\).png)
